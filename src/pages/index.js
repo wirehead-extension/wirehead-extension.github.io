@@ -20,21 +20,15 @@ const IndexPage = () => (
       useful!
     </p>
     <p>
-      Wirehead is open source, free to use, and free to copy. Your data remains
+      Wirehead is open source, free to use, and free to copy. It's currently in
+      the process of being made available in the Chrome store, but for now you
+      can use it by loading it into Chrome in Deloper Mode. Your data remains
       local to your machine. Check out{' '}
       <a href="https://github.com/wirehead-extension/wirehead">
         the source code
       </a>{' '}
       for more details!
     </p>
-    <form
-      method="get"
-      action="https://dl.dropboxusercontent.com/s/si74hd13mqy12ee/wirehead.crx"
-    >
-      <button type="submit" className="btn btn-dark">
-        Download Wirehead!
-      </button>
-    </form>
   </Layout>
 )
 

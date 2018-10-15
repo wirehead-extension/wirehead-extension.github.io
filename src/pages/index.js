@@ -14,14 +14,17 @@ const IndexPage = () => (
     </p>
     <p>
       We're hoping to help you (and us!) kick (y)our addiction to distraction.
-      Once you use Wirehead for a couple of days, we hope you'll find it
-      informative and useful!
+      Your data remains local to your machine. Once you use Wirehead for a
+      couple of days, we hope you'll find it informative and useful!{' '}
+      <a href="https://chrome.google.com/webstore/detail/wirehead/olbnlfcplijajgbkfgpjamlddfbpbebl/">
+        Download it{' '}
+      </a>{' '}
+      from the Chrome store.
     </p>
     <p>
-      Wirehead is open source, free to use, and free to copy. It's currently in
-      the process of being made available in the Chrome store, but for now you
-      can use it by loading it into Chrome in Deloper Mode. Your data remains
-      local to your machine. Check out our README in{' '}
+      Wirehead is open source, free to use, and free to copy. If you want to
+      contribute, you can use it by loading it into Chrome in Deloper Mode.
+      Check out our README in{' '}
       <a href="https://github.com/wirehead-extension/wirehead">
         the source code
       </a>{' '}

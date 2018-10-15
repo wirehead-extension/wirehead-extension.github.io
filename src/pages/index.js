@@ -31,7 +31,7 @@ const IndexPage = () => (
       method="get"
       action="https://dl.dropboxusercontent.com/s/si74hd13mqy12ee/wirehead.crx"
     >
-      <button type="submit" className="btn btn-primary" color="#BADA55">
+      <button type="submit" className="btn btn-dark">
         Download Wirehead!
       </button>
     </form>

@@ -17,7 +17,7 @@ const IndexPage = () => (
       Your data remains local to your machine. Once you use Wirehead for a
       couple of days, we hope you'll find it informative and useful!{' '}
       <a href="https://chrome.google.com/webstore/detail/wirehead/olbnlfcplijajgbkfgpjamlddfbpbebl/">
-        Download it{' '}
+        Download it
       </a>{' '}
       from the Chrome store.
     </p>

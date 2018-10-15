@@ -29,9 +29,9 @@ const IndexPage = () => (
     </p>
     <form
       method="get"
-      action="https://dl.dropboxusercontent.com/s/fjbmoew5tnr9w47/MVIMG_20181010_205605_exported_stabilized_6529217673536521727.gif?dl=0"
+      action="https://dl.dropboxusercontent.com/s/si74hd13mqy12ee/wirehead.crx"
     >
-      <button type="submit" className="btn btn-primary">
+      <button type="submit" className="btn btn-primary" color="#BADA55">
         Download Wirehead!
       </button>
     </form>
